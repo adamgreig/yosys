@@ -69,6 +69,7 @@ module ALU54B(
 	parameter REG_OPCODEOP0_1_CLK = "NONE";
 	parameter REG_OPCODEOP0_1_CE = "CE0";
 	parameter REG_OPCODEOP0_1_RST = "RST0";
+	parameter REG_OPCODEOP1_1_CLK = "NONE";
 	parameter REG_OPCODEIN_0_CLK = "NONE";
 	parameter REG_OPCODEIN_0_CE = "CE0";
 	parameter REG_OPCODEIN_0_RST = "RST0";
